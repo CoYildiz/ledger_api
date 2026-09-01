@@ -1,6 +1,8 @@
 .venv/
 __pycache__/
-*.pyc 
+*.pyc
 .env
 .pytest_cache/
 .DS_Store
+notlar.md
+gorevler.md
